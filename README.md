@@ -1,0 +1,2 @@
+# MajorInfoProject
+基于Vue设计开发的云上工程之专业信息项目
